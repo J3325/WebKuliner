@@ -1,4 +1,4 @@
-FILE ZIP BERNAMA (Web Kuliner UAS Zaky Putra Pratama.zip) Silahkan Download<br>
+FILE ZIP BERNAMA (`Web Kuliner UAS Zaky Putra Pratama.zip`) Silahkan Download<br>
 `Tekan filenya lalu tekan view raw nanti akan terdownload otomatis`
 # WebKuliner
 ## Projek UAS Pemograman Web 1
